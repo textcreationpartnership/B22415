@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true extract out of the Commons journal: of the most principal proceedings of that honourable House, in this last short meeting; in order to the preservation of the King and kingdom from the growth of popery, and also for reducing the growing greatness of France.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22415</idno><idno type="EEBO-CITATION">99889336</idno>
+  <idno type="VID">201510</idno>
+  <idno type="EEBO-PROQUEST">2240918090</idno>
+  
+            <idno type="STC">Wing E2748A</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.2030[5]</idno>
+            <idno type="STC">ESTC R25851</idno>
+            <idno type="PROQUEST">ocm99889336</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889336e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201510)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement C25:1[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true extract out of the Commons journal: of the most principal proceedings of that honourable House, in this last short meeting; in order to the preservation of the King and kingdom from the growth of popery, and also for reducing the growing greatness of France.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year, 1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes proceedings from 29 April 1678 to 11 May 1678.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Catholics --  England --  Early works to 1800.</term>
+               <term type="topical_term">Anti-Catholicism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:201510:1"/>
+            <p> A True Extract Out of the <hi>Commons Iournal:</hi> OF The most Principal Proceedings of that Honour<g ref="char:EOLhyphen"/>able HOUSE, in this last SHORT MEETING; In order to the Preservation of the KING and KINGDOM From <hi>The GROWTH of POPERY,</hi> And also <hi>For Reducing the Growing Greatness of FRANCE.</hi>
+            </p>
+            <p>Printed in <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:201510:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:201510:2"/>
+            <head>A True Extract Out of the <hi>Commons Iournal:</hi> &amp;c.</head>
+            <p>
+               <hi>Monday,</hi> the 29th. of <hi>April,</hi> 1678, these following Reasons were agreed to be used at a <hi>Conference</hi> with the LORDS, concerning the <hi>Dangers</hi> the <hi>Nation</hi> is in by the <hi>Growth of Popery.</hi>
+            </p>
+            <p>THE <hi>House</hi> of <hi>Commons</hi> taking into serious Consideration the <hi>Dangers</hi> arising to this <hi>Kingdom</hi> from the restless En<g ref="char:EOLhyphen"/>deavours of <hi>Priests</hi> and <hi>Jesuites,</hi> and other <hi>Popish Recusants,</hi> to subvert the <hi>True Religion</hi> planted amongst us, and to re<g ref="char:EOLhyphen"/>duce us again under the Bondage of <hi>Roman Superstition</hi> and <hi>Idolatry,</hi> and finding how great boldness they have assumed to themselves from the great remissness and connivance of his <hi>Majesty's Officers</hi> and <hi>Ministers</hi> of <hi>Justice,</hi> both <hi>Civil</hi> and <hi>Ecclesiastical,</hi> whereby so many good and necessary Laws, heretofore made against them, have not, of late times, been put in any Effectual Execution:</p>
+            <p>They do therefore think it requisite to apply some Remedy to this growing Evil, especially at this time wherein the <hi>Ʋnity</hi> of Af<g ref="char:EOLhyphen"/>fections and the mutual Confidence between his Majesty and his Peo<g ref="char:EOLhyphen"/>ple, doth so much conduce to the Preservation of the whole Kingdom. And because they have found by Experience that all those Applycati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ledge<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns they have formerly made upon this Subject, have not produced <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ny Effects answerable to their Expectations, they have endeavoured <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> discover the Causes and Grounds thereof, which they conceive are <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rincipally these.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:201510:3"/> 1. The difficulty of convincing a <hi>Romish Priest</hi> by proving their Ordinations by Authority derived from the <hi>Sea</hi> of <hi>Rome,</hi> which makes them more confident to appear in Publick, and perform their Offices and Functions without fear of punishment.</p>
+            <p n="2">2. That Justices of the Peace are discouraged, because several of those that have been forward in executing the Laws against <hi>Papists,</hi> in such Countries where they do most abound, have been turned out of Commission, without any apparent Cause, whilst others who have been <hi>Popishly</hi> inclined, have been continued in Commission, or, put in <hi>de Novo.</hi>
+            </p>
+            <p n="3">3. That in several Countries many <hi>Protestant Discenters</hi> have been Indicted under the Notion of <hi>Popish Recusants,</hi> and the Penal<g ref="char:EOLhyphen"/>ties of the Laws levyed upon such <hi>Protestant Discenters,</hi> when the <hi>Papists</hi> there have been either totally, or for the most part discharged.</p>
+            <p n="4">4. That the <hi>Papists</hi> do evade the Penalties of the Laws, by making over their Estates by secret Trusts and fraudulent Conveyances, yet receiving the Profits of them to their own Use and Benefit, whereas in former times considerable Sums of Money were raised by the For<g ref="char:EOLhyphen"/>fitures of <hi>Popish Recusants;</hi> That now, by the Remissness of some and Discouragements of others of his Majesties Officers and Ministers of Justice, little or nothing is levied upon them, or likely to be levy<g ref="char:EOLhyphen"/>ed hereafter, unless the care thereof be committed to persons Com<g ref="char:EOLhyphen"/>missionated in the several Countries, and the Money arising thereof applyed to some Publick Use, for the Advancement of the <hi>Protestant Religion,</hi> which may encourage persons to see it Executed.</p>
+            <p n="5">5. That Persons are not discouraged to bring up their Children, or suffer them to be bred up in the <hi>Popish Religion,</hi> because they are as capable of Inheriting the Estates of their Parents or Relations, as any other of his Majesties Subjects.</p>
+            <p>The <hi>Commons</hi> do therefere most earnestly desire your <hi>Lordships</hi> to consider the Danger and sad Consequences that may befall this <hi>King<g ref="char:EOLhyphen"/>dom</hi> by the <hi>Spreading</hi> of that <hi>Religion</hi> amongst us, and seriously and cordially to joyn with them in removing these and all other Impedi<g ref="char:EOLhyphen"/>ments which obstruct the Course of <hi>Justice</hi> and the due <hi>Execution</hi> of the <hi>Laws,</hi> either by Expediting those <hi>Remedies,</hi> which have been of<g ref="char:EOLhyphen"/>fered by <hi>them</hi> to your <hi>Lordships,</hi> or by proposing such <hi>others</hi> as may be more <hi>Effectual,</hi> and that this may be done with all <hi>Expeditio<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> because the <hi>Commons</hi> cannot think it <hi>suitable to their Trust</hi> for them <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>consent</hi> to lay <hi>any further Charge upon the People, how urgent soe<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the Occasions may be that require it, till their minds be satisfied <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all Care and Dilligence is used to secure the Kingdom, and prevent <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+               <pb n="5" facs="tcp:201510:3"/>
+               <hi>dangers that may arise from the prevalency and countenance that is gi<g ref="char:EOLhyphen"/>ven to that Party, by some more effectual Course than hath been provided.</hi>
+            </p>
+            <p>Examinatur per me, <hi>Will. Goldesbrough,</hi> Cler. Dom. Com.</p>
+            <p>
+               <hi>Saturday, May</hi> the <hi>4th.</hi> 1678, The <hi>House</hi> of <hi>Commons</hi> passed these <hi>Votes</hi> following.</p>
+            <p>
+               <hi>Resolved,</hi> That the <hi>League</hi> Offensive and Defensive with the <hi>States General</hi> of the <hi>Ʋnited Provinces,</hi> with the <hi>Articles</hi> thereunto, are not pursuant to the <hi>Adresses</hi> of this <hi>House,</hi> nor consistent with <hi>the Good</hi> and <hi>Safety of the Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Resolved,</hi> That it is the <hi>Opinion</hi> of this <hi>House,</hi> that his Majesty be humbly Advised and Desired forthwith to enter into the present <hi>Alliances</hi> and <hi>Confederations</hi> with the <hi>Emperor, King of Spain,</hi> and <hi>States General</hi> of the <hi>United Provinces</hi> for the <hi>Vigorous</hi> carrying on of a <hi>War</hi> against the <hi>French,</hi> and for the Good and Safety of his Ma<g ref="char:EOLhyphen"/>jesty and his Kingdoms. Particularly that all Endeavours be used for continuing the <hi>States General</hi> of the <hi>United Provinces</hi> in the said <hi>Con<g ref="char:EOLhyphen"/>federacy,</hi> and that it be agreed by all the said Parties Confederated, to prohibit all <hi>Trade</hi> between the Subjects, Countries and Dominions of the <hi>French King;</hi> That no <hi>Commodities</hi> of <hi>France</hi> or Dominions of the <hi>French King</hi> be <hi>Imported</hi> into their Countries from any place <hi>whatsoever.</hi> And also that all other Endeavours be used to Invite all other <hi>Princes</hi> and <hi>States</hi> into the said <hi>Confederation;</hi> And that no <hi>Truce</hi> or <hi>Peace</hi> be made with the <hi>French King</hi> by his Majesty, or any of the Confederates without the common consent of <hi>All</hi> the said Parties.</p>
+            <p>This <hi>Seasonable Advice</hi> being by Order of the House presented to his Majesty that Evening, produced this Answer following on <hi>Mon<g ref="char:EOLhyphen"/>day</hi> Morning.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>Charles R.</signed>
+                  </opener>
+                  <p>HIS <hi>Majesty having been acquainted with the Votes of this</hi> House <hi>of the 4th. instant, was very much surprized both with the</hi> Matter <hi>and</hi> Form <hi>of</hi> them: <hi>But if his Majesty had had</hi> Exceptions <hi>to neither, yet his Majesty having asked the</hi> Advice <hi>of both</hi> Houses, doth not think fit to give any Answer to any thing of that Nature, <hi>till he hath a con<g ref="char:EOLhyphen"/>current Advice from both Houses.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Given at the Court at</hi> White-Hall, <date>
+                           <hi>the 6th. day of</hi> May, 1676.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:201510:4"/>
+            <p> This <hi>Answer</hi> having been seriously debated by the <hi>House of Com<g ref="char:EOLhyphen"/>mons,</hi> they Resolved upon this following <hi>Address,</hi> which on the <hi>11th.</hi> day of <hi>May,</hi> 1678 was presented to his Majesty in the <hi>Banqueting House</hi> by the <hi>Speaker,</hi> attended with <hi>a Full House.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="address">
+                        <head>The Address.</head>
+                        <p>WE Your Majesties most Humble and Loyal Subjects, the <hi>Com<g ref="char:EOLhyphen"/>mons</hi> in this present <hi>Parliament</hi> Assembled, do in all Duty and Thankfulness humbly acknowledge Your Majesties great Grace and Favour in demanding our Advice upon the <hi>State</hi> of Your Majesties <hi>Affaires</hi> in this present Juncture, wherein Your Majestes Honour, and the <hi>Safety</hi> of this <hi>Kingdom</hi> is so nearly concerned; according to which demand of Your Majesty, we did immediately enter upon Con<g ref="char:EOLhyphen"/>sideration of what was imparted to us by Your Majesties Order; and after serious examination and weighing of the Matter, we did resolve upon an Advice, which because of the urgency of Affairs and the Expedition they required, we did present in that Form that was not usual in a Matter of so great Importance, and which we then di<g ref="char:EOLhyphen"/>rected our Committee to excuse to Your Majesty, upon that conside<g ref="char:EOLhyphen"/>ration, and because we apprehend the Dangers were so eminent that the delay of the least time might be of great prejudice to your Ma<g ref="char:EOLhyphen"/>jesties Service, and the Safety of your Kingdom, after so much time already lost, we thought it necessary to apply immediately to Your Majesty by <hi>Our selves,</hi> which in a matter of this nature, is wholly in the Choice of this <hi>House,</hi> and hath been frequently practised by us.</p>
+                        <p>And because these Occasions are so pressing upon Your Majesty, <hi>and the whole Kingdom deeply sensible thereof,</hi> We most humbly beseech Your Majesty to communica<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e to us the Resolutions Your Majesty hath taken upon our said Advice, that thereby those <hi>Eminent Dan<g ref="char:EOLhyphen"/>gers</hi> may be timely prevented.</p>
+                        <p>And whereas the <hi>Commons</hi> conceive the present <hi>Inconveniencies</hi> and <hi>Dangers</hi> under which the Kingdom now lies, might either totally or in a great measure have been prevented, if Your Majesty had <hi>accepted of that Advice,</hi> which in all humility and faithfullness we presented to Your Majesty on the <hi>26th.</hi> of <hi>May</hi> last, and which we reiterated to Your Majesty of the <hi>31th.</hi> of <hi>January</hi> ensuing. The <hi>Refusing of which Advice, and dismissing of the Parliament in</hi> May <hi>last, was the occasion of those ill Consequences which have since succeeded both at home and abroad:</hi> All which hath arisen from those mis-representations of our Proceedings, which have been suggested to your Majesty by some
+<pb n="7" facs="tcp:201510:4"/>
+                           <hi>particular Persons</hi> in a <hi>Clandestine way,</hi> without the participation and advice (as we conceive) of Your <hi>Council-Board,</hi> as though we had Invaded your Majesties Prerogative of making Peace or War; Whereas we did only offer our <hi>humble Advice in matters wherein the Safety of the Kingdom was concerned, which is a Right was never yet questioned in the times of your Royal Predecessors, and without which Your Majesty can never he safe.</hi> Upon which Grounds your Majesty was induced to give us such Answers to these two Addresses, <hi>Reject<g ref="char:EOLhyphen"/>ing our Advice,</hi> whereby your Majesties good Subjects have been infinitely discouraged, and the <hi>State</hi> of your Majesties <hi>Affaires, re<g ref="char:EOLhyphen"/>duced to a most deplorable condition.</hi> We do therefore most humbly de<g ref="char:EOLhyphen"/>sire, That for the good and safety of this Kingdom, and for the satis<g ref="char:EOLhyphen"/>faction of your Subjects, your Majesty would be graciously pleased to <hi>Remove those Councellours which advised the Answers to our Ad<g ref="char:EOLhyphen"/>dresses of the 26th of</hi> May, <hi>and 31st. of</hi> January, <hi>or either of them.</hi>
+                        </p>
+                        <p>And we do further most humbly desire your Majesty, favourably to accept this our humble Petition and Adress, as proceeding from <hi>Hearts entirely devoted to your Majesties Service,</hi> and that as we have never <hi>yet</hi> failed of giving testimony of our Affection and Loyalty to your <hi>Majesties Person and Government,</hi> so your Majesty may rest confidently assured we shall never be wanting to Support your Ma<g ref="char:EOLhyphen"/>jesties <hi>Greatness and Interest, whilst your Majesty relies upon our Coun<g ref="char:EOLhyphen"/>sel, which can have no other End than what sincerely tends thereunto,</hi> notwithstanding any <hi>sinister</hi> or <hi>self-interested endeavours to make Im<g ref="char:EOLhyphen"/>pressions on your Majesty to the contrary.</hi>
+                        </p>
+                        <p>
+                           <hi>And we do further desire your Majesty that the Duke of</hi> Lauther<g ref="char:EOLhyphen"/>dale <hi>may be removed from your Presence and Councils.</hi>
+                        </p>
+                        <closer/>
+                        <postscript>
+                           <p>This is a True Coppy taken out of the <hi>Journal</hi> by <hi>William Gouldsbrough, Cler. Dom. Com.</hi>
+                           </p>
+                        </postscript>
+                     </div>
+                     <div type="response">
+                        <p>To which his Majesty was pleased immediately to return this Answer.</p>
+                        <p>
+                           <hi>This</hi> Address <hi>is so</hi> Extravagant <hi>that I am not willing speedily to give it the</hi> Answer it Deserves.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
